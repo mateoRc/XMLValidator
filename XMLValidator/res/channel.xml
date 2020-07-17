@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+	<name>MateoChannelTest</name>
+	<topic>
+		<name>topicName1</name>
+		<lession>l1</lession>
+		<lession>l2</lession>
+		<lession>l3</lession>
+	</topic>
+	<topic>
+		<name>topicName2</name>
+		<lession>l1</lession>
+		<lession>l2</lession>
+		<lession>l3</lession>
+	</topic>
+	<topic>
+		<name>topicName3</name>
+		<lession>l1</lession>
+		<lession>l2</lession>
+	</topic>
+</channel>
